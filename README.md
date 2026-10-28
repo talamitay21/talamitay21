@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.svg" alt="Tal Amitay – Computer Science, Full-Stack, Computer Vision" width="100%">
+</p>
+
 # Hi, I'm Tal Amitay 👋
 
 Computer Science student at Bar-Ilan University (graduating April 2027) and Full-Stack developer.
@@ -16,14 +20,9 @@ before any action is taken.
 
 ▶️ [Watch the demo](https://www.youtube.com/watch?v=W7jFbPoyRSk) · 💻 [Source code](https://github.com/nir-b-a/Road-Guard)
 
-## 📧 Project: Gmailish – Gmail-style email platform
+## 📧 Gmailish
 
-A full-stack Gmail-style email platform, built as a team project in an Agile Scrum environment.
-
-- **Android app (Java):** offline-first mobile client
-- **Web client:** React
-- **Backend:** Node.js/Express and MongoDB API, plus a multi-threaded C++ server
-- **Deployment:** Docker
+A full-stack Gmail-style email platform (Android, React, Node.js, C++).
 
 💻 [Android and server](https://github.com/yuvaltar/Gmailish) · 🌐 [Web client](https://github.com/yuvaltar/Gmailish-web)
 
