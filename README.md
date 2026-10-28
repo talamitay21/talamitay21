@@ -9,6 +9,8 @@ I enjoy building end-to-end systems, from mobile apps to cloud backends to compu
 
 ## 🚗 Featured project: RoadGuard – AI Traffic Violation Detection
 
+🏆 **Award-winning project: selected as an "Outstanding Project".**
+
 RoadGuard turns everyday Android phones into dashcams and automatically detects traffic violations
 (solid-line crossing, speeding, yellow-line driving). Every detection goes to a human reviewer
 before any action is taken.
